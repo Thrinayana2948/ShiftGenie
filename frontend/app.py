@@ -9,7 +9,7 @@ import html
 import requests
 import streamlit as st
 
-BACKEND_URL = "http://127.0.0.1:8000"
+BACKEND_URL = "https://shiftgenie.onrender.com"
 DAYS = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
 
 st.set_page_config(page_title="ShiftGenie", layout="wide")
