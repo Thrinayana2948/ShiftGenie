@@ -1,0 +1,26 @@
+{
+  "employees": [
+    {"id": "E1", "max_weekly_hours": 40, "availability": [
+      ["Mon", "08:00", "16:00"], ["Tue", "08:00", "16:00"], ["Wed", "08:00", "16:00"],
+      ["Thu", "08:00", "16:00"], ["Fri", "08:00", "16:00"]
+    ]},
+    {"id": "E2", "max_weekly_hours": 30, "availability": [
+      ["Mon", "16:00", "22:00"], ["Wed", "16:00", "22:00"], ["Fri", "16:00", "22:00"],
+      ["Sat", "10:00", "18:00"]
+    ]},
+    {"id": "E3", "max_weekly_hours": 25, "availability": [
+      ["Sat", "10:00", "18:00"], ["Sun", "10:00", "18:00"], ["Tue", "08:00", "16:00"]
+    ]}
+  ],
+  "shifts": [
+    {"id": "S1", "day": "Mon", "start": "08:00", "end": "16:00", "required_staff": 1},
+    {"id": "S2", "day": "Mon", "start": "16:00", "end": "22:00", "required_staff": 1},
+    {"id": "S3", "day": "Tue", "start": "08:00", "end": "16:00", "required_staff": 1},
+    {"id": "S4", "day": "Wed", "start": "08:00", "end": "16:00", "required_staff": 1},
+    {"id": "S5", "day": "Wed", "start": "16:00", "end": "22:00", "required_staff": 1},
+    {"id": "S6", "day": "Fri", "start": "08:00", "end": "16:00", "required_staff": 1},
+    {"id": "S7", "day": "Fri", "start": "16:00", "end": "22:00", "required_staff": 1},
+    {"id": "S8", "day": "Sat", "start": "10:00", "end": "18:00", "required_staff": 1},
+    {"id": "S9", "day": "Sun", "start": "10:00", "end": "18:00", "required_staff": 1}
+  ]
+}

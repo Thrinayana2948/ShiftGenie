@@ -1,0 +1,1304 @@
+{
+  "scenario_label": "Demo Scenario \u2014 Synthetic Retail Workforce Data",
+  "disclaimer": "These are fictional, synthetic employees generated for demo purposes only. They do not represent real people.",
+  "employees": [
+    {
+      "name": "Rahul",
+      "role": "Supervisor",
+      "max_weekly_hours": 25,
+      "preferred_shift": "Evening",
+      "skills": [
+        "Team Leadership",
+        "Scheduling",
+        "Inventory Management",
+        "Cash Handling"
+      ],
+      "certifications": [],
+      "availability": [
+        {
+          "day_of_week": "Saturday",
+          "start_time": "10:00",
+          "end_time": "18:00"
+        },
+        {
+          "day_of_week": "Sunday",
+          "start_time": "09:00",
+          "end_time": "17:00"
+        },
+        {
+          "day_of_week": "Friday",
+          "start_time": "14:00",
+          "end_time": "22:00"
+        }
+      ]
+    },
+    {
+      "name": "Priya",
+      "role": "Supervisor",
+      "max_weekly_hours": 25,
+      "preferred_shift": "Evening",
+      "skills": [
+        "Team Leadership",
+        "Scheduling"
+      ],
+      "certifications": [],
+      "availability": [
+        {
+          "day_of_week": "Monday",
+          "start_time": "14:00",
+          "end_time": "22:00"
+        },
+        {
+          "day_of_week": "Friday",
+          "start_time": "14:00",
+          "end_time": "22:00"
+        },
+        {
+          "day_of_week": "Tuesday",
+          "start_time": "14:00",
+          "end_time": "22:00"
+        },
+        {
+          "day_of_week": "Thursday",
+          "start_time": "14:00",
+          "end_time": "22:00"
+        },
+        {
+          "day_of_week": "Sunday",
+          "start_time": "09:00",
+          "end_time": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Karan",
+      "role": "Supervisor",
+      "max_weekly_hours": 25,
+      "preferred_shift": "Afternoon",
+      "skills": [
+        "Cash Handling",
+        "Team Leadership",
+        "Scheduling",
+        "Inventory Management"
+      ],
+      "certifications": [
+        {
+          "name": "First Aid",
+          "verification_status": "verified",
+          "verification_source": "Red Cross"
+        }
+      ],
+      "availability": [
+        {
+          "day_of_week": "Monday",
+          "start_time": "12:00",
+          "end_time": "20:00"
+        },
+        {
+          "day_of_week": "Thursday",
+          "start_time": "12:00",
+          "end_time": "20:00"
+        },
+        {
+          "day_of_week": "Sunday",
+          "start_time": "09:00",
+          "end_time": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Ananya",
+      "role": "Cashier",
+      "max_weekly_hours": 35,
+      "preferred_shift": "Afternoon",
+      "skills": [
+        "POS Systems",
+        "Customer Service",
+        "Cash Handling"
+      ],
+      "certifications": [
+        {
+          "name": "First Aid",
+          "verification_status": "unverified",
+          "verification_source": "Red Cross"
+        },
+        {
+          "name": "Food Safety",
+          "verification_status": "verified",
+          "verification_source": "State Board"
+        }
+      ],
+      "availability": [
+        {
+          "day_of_week": "Friday",
+          "start_time": "12:00",
+          "end_time": "20:00"
+        },
+        {
+          "day_of_week": "Wednesday",
+          "start_time": "12:00",
+          "end_time": "20:00"
+        },
+        {
+          "day_of_week": "Sunday",
+          "start_time": "10:00",
+          "end_time": "18:00"
+        },
+        {
+          "day_of_week": "Tuesday",
+          "start_time": "12:00",
+          "end_time": "20:00"
+        },
+        {
+          "day_of_week": "Saturday",
+          "start_time": "10:00",
+          "end_time": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Arjun",
+      "role": "Cashier",
+      "max_weekly_hours": 15,
+      "preferred_shift": "Afternoon",
+      "skills": [
+        "Customer Service",
+        "Cash Handling"
+      ],
+      "certifications": [],
+      "availability": [
+        {
+          "day_of_week": "Thursday",
+          "start_time": "12:00",
+          "end_time": "20:00"
+        },
+        {
+          "day_of_week": "Saturday",
+          "start_time": "09:00",
+          "end_time": "17:00"
+        },
+        {
+          "day_of_week": "Wednesday",
+          "start_time": "12:00",
+          "end_time": "20:00"
+        },
+        {
+          "day_of_week": "Tuesday",
+          "start_time": "12:00",
+          "end_time": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Vikram",
+      "role": "Cashier",
+      "max_weekly_hours": 20,
+      "preferred_shift": "Morning",
+      "skills": [
+        "Cash Handling",
+        "Customer Service",
+        "POS Systems"
+      ],
+      "certifications": [
+        {
+          "name": "Manual Handling",
+          "verification_status": "expired",
+          "verification_source": "Employer Training"
+        },
+        {
+          "name": "Food Safety",
+          "verification_status": "expired",
+          "verification_source": "State Board"
+        }
+      ],
+      "availability": [
+        {
+          "day_of_week": "Thursday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Wednesday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Friday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Tuesday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Sneha",
+      "role": "Cashier",
+      "max_weekly_hours": 15,
+      "preferred_shift": "Morning",
+      "skills": [
+        "Cash Handling",
+        "POS Systems",
+        "Customer Service"
+      ],
+      "certifications": [
+        {
+          "name": "First Aid",
+          "verification_status": "unverified",
+          "verification_source": "Red Cross"
+        }
+      ],
+      "availability": [
+        {
+          "day_of_week": "Saturday",
+          "start_time": "09:00",
+          "end_time": "17:00"
+        },
+        {
+          "day_of_week": "Wednesday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Tuesday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Thursday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Friday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Rohan",
+      "role": "Cashier",
+      "max_weekly_hours": 35,
+      "preferred_shift": "Evening",
+      "skills": [
+        "Customer Service",
+        "Cash Handling"
+      ],
+      "certifications": [],
+      "availability": [
+        {
+          "day_of_week": "Saturday",
+          "start_time": "09:00",
+          "end_time": "17:00"
+        },
+        {
+          "day_of_week": "Friday",
+          "start_time": "14:00",
+          "end_time": "22:00"
+        },
+        {
+          "day_of_week": "Thursday",
+          "start_time": "14:00",
+          "end_time": "22:00"
+        },
+        {
+          "day_of_week": "Sunday",
+          "start_time": "10:00",
+          "end_time": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Divya",
+      "role": "Cashier",
+      "max_weekly_hours": 15,
+      "preferred_shift": "Morning",
+      "skills": [
+        "POS Systems",
+        "Customer Service"
+      ],
+      "certifications": [],
+      "availability": [
+        {
+          "day_of_week": "Saturday",
+          "start_time": "10:00",
+          "end_time": "18:00"
+        },
+        {
+          "day_of_week": "Tuesday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Thursday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Aditya",
+      "role": "Sales Floor",
+      "max_weekly_hours": 25,
+      "preferred_shift": "Evening",
+      "skills": [
+        "Product Knowledge",
+        "Upselling",
+        "Customer Service"
+      ],
+      "certifications": [
+        {
+          "name": "Food Safety",
+          "verification_status": "expired",
+          "verification_source": "State Board"
+        },
+        {
+          "name": "Manual Handling",
+          "verification_status": "expired",
+          "verification_source": "Employer Training"
+        }
+      ],
+      "availability": [
+        {
+          "day_of_week": "Monday",
+          "start_time": "14:00",
+          "end_time": "22:00"
+        },
+        {
+          "day_of_week": "Wednesday",
+          "start_time": "14:00",
+          "end_time": "22:00"
+        },
+        {
+          "day_of_week": "Thursday",
+          "start_time": "14:00",
+          "end_time": "22:00"
+        },
+        {
+          "day_of_week": "Tuesday",
+          "start_time": "14:00",
+          "end_time": "22:00"
+        }
+      ]
+    },
+    {
+      "name": "Meera",
+      "role": "Sales Floor",
+      "max_weekly_hours": 35,
+      "preferred_shift": "Morning",
+      "skills": [
+        "Customer Service",
+        "Product Knowledge",
+        "Upselling"
+      ],
+      "certifications": [
+        {
+          "name": "Food Safety",
+          "verification_status": "expired",
+          "verification_source": "State Board"
+        },
+        {
+          "name": "First Aid",
+          "verification_status": "expired",
+          "verification_source": "Red Cross"
+        }
+      ],
+      "availability": [
+        {
+          "day_of_week": "Wednesday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Tuesday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Friday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Suresh",
+      "role": "Sales Floor",
+      "max_weekly_hours": 25,
+      "preferred_shift": "Afternoon",
+      "skills": [
+        "Upselling",
+        "Product Knowledge"
+      ],
+      "certifications": [
+        {
+          "name": "Food Safety",
+          "verification_status": "verified",
+          "verification_source": "State Board"
+        }
+      ],
+      "availability": [
+        {
+          "day_of_week": "Monday",
+          "start_time": "12:00",
+          "end_time": "20:00"
+        },
+        {
+          "day_of_week": "Tuesday",
+          "start_time": "12:00",
+          "end_time": "20:00"
+        },
+        {
+          "day_of_week": "Friday",
+          "start_time": "12:00",
+          "end_time": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Kavya",
+      "role": "Sales Floor",
+      "max_weekly_hours": 35,
+      "preferred_shift": "Morning",
+      "skills": [
+        "Customer Service",
+        "Product Knowledge"
+      ],
+      "certifications": [],
+      "availability": [
+        {
+          "day_of_week": "Saturday",
+          "start_time": "10:00",
+          "end_time": "18:00"
+        },
+        {
+          "day_of_week": "Thursday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Friday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Nikhil",
+      "role": "Sales Floor",
+      "max_weekly_hours": 30,
+      "preferred_shift": "Evening",
+      "skills": [
+        "Upselling",
+        "Product Knowledge",
+        "Customer Service"
+      ],
+      "certifications": [
+        {
+          "name": "Manual Handling",
+          "verification_status": "expired",
+          "verification_source": "Employer Training"
+        },
+        {
+          "name": "Food Safety",
+          "verification_status": "unverified",
+          "verification_source": "State Board"
+        }
+      ],
+      "availability": [
+        {
+          "day_of_week": "Wednesday",
+          "start_time": "14:00",
+          "end_time": "22:00"
+        },
+        {
+          "day_of_week": "Thursday",
+          "start_time": "14:00",
+          "end_time": "22:00"
+        },
+        {
+          "day_of_week": "Friday",
+          "start_time": "14:00",
+          "end_time": "22:00"
+        },
+        {
+          "day_of_week": "Saturday",
+          "start_time": "10:00",
+          "end_time": "18:00"
+        },
+        {
+          "day_of_week": "Monday",
+          "start_time": "14:00",
+          "end_time": "22:00"
+        }
+      ]
+    },
+    {
+      "name": "Pooja",
+      "role": "Sales Floor",
+      "max_weekly_hours": 35,
+      "preferred_shift": "Evening",
+      "skills": [
+        "Customer Service",
+        "Product Knowledge"
+      ],
+      "certifications": [],
+      "availability": [
+        {
+          "day_of_week": "Friday",
+          "start_time": "14:00",
+          "end_time": "22:00"
+        },
+        {
+          "day_of_week": "Tuesday",
+          "start_time": "14:00",
+          "end_time": "22:00"
+        },
+        {
+          "day_of_week": "Monday",
+          "start_time": "14:00",
+          "end_time": "22:00"
+        }
+      ]
+    },
+    {
+      "name": "Manish",
+      "role": "Stock/Inventory",
+      "max_weekly_hours": 15,
+      "preferred_shift": "Morning",
+      "skills": [
+        "Forklift Operation",
+        "Stocking"
+      ],
+      "certifications": [],
+      "availability": [
+        {
+          "day_of_week": "Monday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Friday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Tuesday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Wednesday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Riya",
+      "role": "Stock/Inventory",
+      "max_weekly_hours": 30,
+      "preferred_shift": "Afternoon",
+      "skills": [
+        "Stocking",
+        "Forklift Operation",
+        "Inventory Management"
+      ],
+      "certifications": [],
+      "availability": [
+        {
+          "day_of_week": "Monday",
+          "start_time": "12:00",
+          "end_time": "20:00"
+        },
+        {
+          "day_of_week": "Sunday",
+          "start_time": "09:00",
+          "end_time": "17:00"
+        },
+        {
+          "day_of_week": "Thursday",
+          "start_time": "12:00",
+          "end_time": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Aakash",
+      "role": "Stock/Inventory",
+      "max_weekly_hours": 25,
+      "preferred_shift": "Morning",
+      "skills": [
+        "Inventory Management",
+        "Forklift Operation",
+        "Stocking"
+      ],
+      "certifications": [
+        {
+          "name": "Manual Handling",
+          "verification_status": "verified",
+          "verification_source": "Employer Training"
+        },
+        {
+          "name": "Food Safety",
+          "verification_status": "unverified",
+          "verification_source": "State Board"
+        }
+      ],
+      "availability": [
+        {
+          "day_of_week": "Tuesday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Sunday",
+          "start_time": "09:00",
+          "end_time": "17:00"
+        },
+        {
+          "day_of_week": "Friday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Simran",
+      "role": "Stock/Inventory",
+      "max_weekly_hours": 15,
+      "preferred_shift": "Afternoon",
+      "skills": [
+        "Inventory Management",
+        "Stocking"
+      ],
+      "certifications": [
+        {
+          "name": "First Aid",
+          "verification_status": "verified",
+          "verification_source": "Red Cross"
+        }
+      ],
+      "availability": [
+        {
+          "day_of_week": "Monday",
+          "start_time": "12:00",
+          "end_time": "20:00"
+        },
+        {
+          "day_of_week": "Sunday",
+          "start_time": "10:00",
+          "end_time": "18:00"
+        },
+        {
+          "day_of_week": "Friday",
+          "start_time": "12:00",
+          "end_time": "20:00"
+        },
+        {
+          "day_of_week": "Saturday",
+          "start_time": "10:00",
+          "end_time": "18:00"
+        },
+        {
+          "day_of_week": "Thursday",
+          "start_time": "12:00",
+          "end_time": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Varun",
+      "role": "Stock/Inventory",
+      "max_weekly_hours": 30,
+      "preferred_shift": "Morning",
+      "skills": [
+        "Inventory Management",
+        "Forklift Operation",
+        "Stocking"
+      ],
+      "certifications": [
+        {
+          "name": "Food Safety",
+          "verification_status": "verified",
+          "verification_source": "State Board"
+        }
+      ],
+      "availability": [
+        {
+          "day_of_week": "Wednesday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Thursday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Sunday",
+          "start_time": "09:00",
+          "end_time": "17:00"
+        },
+        {
+          "day_of_week": "Saturday",
+          "start_time": "10:00",
+          "end_time": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Neha",
+      "role": "Stock/Inventory",
+      "max_weekly_hours": 35,
+      "preferred_shift": "Evening",
+      "skills": [
+        "Inventory Management",
+        "Stocking"
+      ],
+      "certifications": [],
+      "availability": [
+        {
+          "day_of_week": "Monday",
+          "start_time": "14:00",
+          "end_time": "22:00"
+        },
+        {
+          "day_of_week": "Saturday",
+          "start_time": "09:00",
+          "end_time": "17:00"
+        },
+        {
+          "day_of_week": "Wednesday",
+          "start_time": "14:00",
+          "end_time": "22:00"
+        },
+        {
+          "day_of_week": "Sunday",
+          "start_time": "10:00",
+          "end_time": "18:00"
+        },
+        {
+          "day_of_week": "Thursday",
+          "start_time": "14:00",
+          "end_time": "22:00"
+        }
+      ]
+    },
+    {
+      "name": "Tarun",
+      "role": "Cashier",
+      "max_weekly_hours": 30,
+      "preferred_shift": "Morning",
+      "skills": [
+        "Customer Service",
+        "Stocking",
+        "Upselling",
+        "Cash Handling",
+        "POS Systems",
+        "Forklift Operation"
+      ],
+      "certifications": [],
+      "availability": [
+        {
+          "day_of_week": "Tuesday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Friday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Saturday",
+          "start_time": "10:00",
+          "end_time": "18:00"
+        },
+        {
+          "day_of_week": "Monday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Wednesday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Isha",
+      "role": "Sales Floor",
+      "max_weekly_hours": 25,
+      "preferred_shift": "Afternoon",
+      "skills": [
+        "Product Knowledge",
+        "Forklift Operation",
+        "Customer Service",
+        "Stocking",
+        "Upselling",
+        "Inventory Management",
+        "POS Systems"
+      ],
+      "certifications": [],
+      "availability": [
+        {
+          "day_of_week": "Sunday",
+          "start_time": "10:00",
+          "end_time": "18:00"
+        },
+        {
+          "day_of_week": "Monday",
+          "start_time": "12:00",
+          "end_time": "20:00"
+        },
+        {
+          "day_of_week": "Saturday",
+          "start_time": "10:00",
+          "end_time": "18:00"
+        },
+        {
+          "day_of_week": "Thursday",
+          "start_time": "12:00",
+          "end_time": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Gaurav",
+      "role": "Stock/Inventory",
+      "max_weekly_hours": 20,
+      "preferred_shift": "Afternoon",
+      "skills": [
+        "POS Systems",
+        "Customer Service",
+        "Forklift Operation"
+      ],
+      "certifications": [],
+      "availability": [
+        {
+          "day_of_week": "Tuesday",
+          "start_time": "12:00",
+          "end_time": "20:00"
+        },
+        {
+          "day_of_week": "Thursday",
+          "start_time": "12:00",
+          "end_time": "20:00"
+        },
+        {
+          "day_of_week": "Friday",
+          "start_time": "12:00",
+          "end_time": "20:00"
+        },
+        {
+          "day_of_week": "Wednesday",
+          "start_time": "12:00",
+          "end_time": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Harsh",
+      "role": "Cashier",
+      "max_weekly_hours": 40,
+      "preferred_shift": "Morning",
+      "skills": [
+        "Cash Handling",
+        "Customer Service",
+        "POS Systems"
+      ],
+      "certifications": [
+        {
+          "name": "Food Safety",
+          "verification_status": "verified",
+          "verification_source": "State Board"
+        }
+      ],
+      "availability": [
+        {
+          "day_of_week": "Monday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Tuesday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Wednesday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Thursday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Friday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Saturday",
+          "start_time": "16:00",
+          "end_time": "22:00"
+        },
+        {
+          "day_of_week": "Sunday",
+          "start_time": "16:00",
+          "end_time": "22:00"
+        }
+      ]
+    },
+    {
+      "name": "Mansi",
+      "role": "Cashier",
+      "max_weekly_hours": 40,
+      "preferred_shift": "Morning",
+      "skills": [
+        "Cash Handling",
+        "Customer Service",
+        "POS Systems"
+      ],
+      "certifications": [
+        {
+          "name": "Food Safety",
+          "verification_status": "verified",
+          "verification_source": "State Board"
+        }
+      ],
+      "availability": [
+        {
+          "day_of_week": "Monday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Tuesday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Wednesday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Thursday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Friday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Saturday",
+          "start_time": "16:00",
+          "end_time": "22:00"
+        },
+        {
+          "day_of_week": "Sunday",
+          "start_time": "16:00",
+          "end_time": "22:00"
+        }
+      ]
+    },
+    {
+      "name": "Yash",
+      "role": "Cashier",
+      "max_weekly_hours": 40,
+      "preferred_shift": "Morning",
+      "skills": [
+        "Cash Handling",
+        "Customer Service",
+        "POS Systems"
+      ],
+      "certifications": [
+        {
+          "name": "Food Safety",
+          "verification_status": "verified",
+          "verification_source": "State Board"
+        }
+      ],
+      "availability": [
+        {
+          "day_of_week": "Monday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Tuesday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Wednesday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Thursday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Friday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Saturday",
+          "start_time": "16:00",
+          "end_time": "22:00"
+        },
+        {
+          "day_of_week": "Sunday",
+          "start_time": "16:00",
+          "end_time": "22:00"
+        }
+      ]
+    },
+    {
+      "name": "Tanvi",
+      "role": "Supervisor",
+      "max_weekly_hours": 40,
+      "preferred_shift": "Morning",
+      "skills": [
+        "Team Leadership",
+        "Scheduling",
+        "Cash Handling"
+      ],
+      "certifications": [
+        {
+          "name": "Food Safety",
+          "verification_status": "verified",
+          "verification_source": "State Board"
+        }
+      ],
+      "availability": [
+        {
+          "day_of_week": "Monday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Tuesday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Wednesday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Thursday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        },
+        {
+          "day_of_week": "Friday",
+          "start_time": "08:00",
+          "end_time": "16:00"
+        }
+      ]
+    }
+  ],
+  "shifts": [
+    {
+      "name": "Monday Morning",
+      "day_of_week": "Monday",
+      "start_time": "08:00",
+      "end_time": "16:00",
+      "required_staff": 2,
+      "required_roles": [
+        "Cashier",
+        "Supervisor"
+      ],
+      "required_certifications": [
+        "Food Safety"
+      ]
+    },
+    {
+      "name": "Monday Evening",
+      "day_of_week": "Monday",
+      "start_time": "16:00",
+      "end_time": "22:00",
+      "required_staff": 2,
+      "required_roles": [
+        "Cashier",
+        "Sales Floor",
+        "Stock/Inventory"
+      ],
+      "required_certifications": []
+    },
+    {
+      "name": "Tuesday Morning",
+      "day_of_week": "Tuesday",
+      "start_time": "08:00",
+      "end_time": "16:00",
+      "required_staff": 2,
+      "required_roles": [
+        "Cashier",
+        "Supervisor"
+      ],
+      "required_certifications": [
+        "Food Safety"
+      ]
+    },
+    {
+      "name": "Tuesday Evening",
+      "day_of_week": "Tuesday",
+      "start_time": "16:00",
+      "end_time": "22:00",
+      "required_staff": 2,
+      "required_roles": [
+        "Cashier",
+        "Sales Floor",
+        "Stock/Inventory"
+      ],
+      "required_certifications": []
+    },
+    {
+      "name": "Wednesday Morning",
+      "day_of_week": "Wednesday",
+      "start_time": "08:00",
+      "end_time": "16:00",
+      "required_staff": 2,
+      "required_roles": [
+        "Cashier",
+        "Supervisor"
+      ],
+      "required_certifications": [
+        "Food Safety"
+      ]
+    },
+    {
+      "name": "Wednesday Evening",
+      "day_of_week": "Wednesday",
+      "start_time": "16:00",
+      "end_time": "22:00",
+      "required_staff": 2,
+      "required_roles": [
+        "Cashier",
+        "Sales Floor",
+        "Stock/Inventory"
+      ],
+      "required_certifications": []
+    },
+    {
+      "name": "Thursday Morning",
+      "day_of_week": "Thursday",
+      "start_time": "08:00",
+      "end_time": "16:00",
+      "required_staff": 2,
+      "required_roles": [
+        "Cashier",
+        "Supervisor"
+      ],
+      "required_certifications": [
+        "Food Safety"
+      ]
+    },
+    {
+      "name": "Thursday Evening",
+      "day_of_week": "Thursday",
+      "start_time": "16:00",
+      "end_time": "22:00",
+      "required_staff": 2,
+      "required_roles": [
+        "Cashier",
+        "Sales Floor",
+        "Stock/Inventory"
+      ],
+      "required_certifications": []
+    },
+    {
+      "name": "Friday Morning",
+      "day_of_week": "Friday",
+      "start_time": "08:00",
+      "end_time": "16:00",
+      "required_staff": 2,
+      "required_roles": [
+        "Cashier",
+        "Supervisor"
+      ],
+      "required_certifications": [
+        "Food Safety"
+      ]
+    },
+    {
+      "name": "Friday Evening",
+      "day_of_week": "Friday",
+      "start_time": "16:00",
+      "end_time": "22:00",
+      "required_staff": 2,
+      "required_roles": [
+        "Cashier",
+        "Sales Floor",
+        "Stock/Inventory"
+      ],
+      "required_certifications": []
+    },
+    {
+      "name": "Saturday Morning",
+      "day_of_week": "Saturday",
+      "start_time": "09:00",
+      "end_time": "17:00",
+      "required_staff": 3,
+      "required_roles": [
+        "Cashier",
+        "Supervisor"
+      ],
+      "required_certifications": []
+    },
+    {
+      "name": "Saturday Evening",
+      "day_of_week": "Saturday",
+      "start_time": "16:00",
+      "end_time": "22:00",
+      "required_staff": 3,
+      "required_roles": [
+        "Cashier",
+        "Sales Floor",
+        "Stock/Inventory"
+      ],
+      "required_certifications": []
+    },
+    {
+      "name": "Sunday Morning",
+      "day_of_week": "Sunday",
+      "start_time": "09:00",
+      "end_time": "17:00",
+      "required_staff": 3,
+      "required_roles": [
+        "Cashier",
+        "Supervisor"
+      ],
+      "required_certifications": []
+    },
+    {
+      "name": "Sunday Evening",
+      "day_of_week": "Sunday",
+      "start_time": "16:00",
+      "end_time": "22:00",
+      "required_staff": 3,
+      "required_roles": [
+        "Cashier",
+        "Sales Floor",
+        "Stock/Inventory"
+      ],
+      "required_certifications": []
+    }
+  ]
+}
